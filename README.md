@@ -38,4 +38,4 @@ This educational project explores the application of machine learning (ML) for p
 - Experiment with different data features and model parameters.
 - Share your findings and contribute to the project discussion.
 
-Join us in exploring the exciting potential of ML for revolutionizing packaging development!
+Join me in exploring the exciting potential of ML for revolutionizing packaging development!

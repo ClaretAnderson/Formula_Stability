@@ -2,6 +2,12 @@
 
 This educational project explores the application of machine learning (ML) for predicting packaging compatibility in the product and packaging development process. By simulating real-world data and implementing various ML algorithms, this project aims to showcase the potential of ML in streamlining and enhancing packaging development processes.
 
+## Inspiration
+
+This project was inspired by the article "Machine learning approach to packaging compatibility testing in the new product development process", published in the Journal of Intelligent Manufacturing (https://doi.org/10.1007/s10845-023-02090-8). This article highlighted the potential of machine learning (ML) to revolutionize packaging compatibility testing by reducing time and cost while improving accuracy.
+
+Piotrowski, N., 2023. Machine learning approach to packaging compatibility testing in the new product development process. Journal of Intelligent Manufacturing, pp.1-13.
+
 ## Learning Objectives:
 
 - Understand the challenges of traditional packaging compatibility testing.

@@ -1,6 +1,6 @@
 # Educational Project: ML-Based Formula Stability Prediction
 
-This educational project explores the application of machine learning (ML) for predicting packaging compatibility in the product and packaging development process. By simulating real-world data and implementing various ML algorithms, this project aims to showcase the potential of ML in streamlining and enhancing packaging development processes.
+This educational project explores the application of machine learning (ML) for predicting formula stability in the product and packaging development process. By simulating real-world data and implementing various ML algorithms, this project aims to showcase the potential of ML in streamlining and enhancing cosmetic product development processes.
 
 ## Inspiration
 
@@ -43,4 +43,4 @@ Piotrowski, N., 2023. Machine learning approach to packaging compatibility testi
 - Experiment with different data features and model parameters.
 - Share your findings and contribute to the project discussion.
 
-Join me in exploring the exciting potential of ML for revolutionizing packaging development!
+Join me in exploring the exciting potential of ML for revolutionizing cosmetic product development!

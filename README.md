@@ -1,4 +1,4 @@
-# Educational Project: ML-Based Packaging Compatibility Prediction
+# Educational Project: ML-Based Formula Stability Prediction
 
 This educational project explores the application of machine learning (ML) for predicting packaging compatibility in the product and packaging development process. By simulating real-world data and implementing various ML algorithms, this project aims to showcase the potential of ML in streamlining and enhancing packaging development processes.
 
@@ -10,15 +10,15 @@ Piotrowski, N., 2023. Machine learning approach to packaging compatibility testi
 
 ## Learning Objectives:
 
-- Understand the challenges of traditional packaging compatibility testing.
-- Explore the potential benefits of ML in packaging development.
-- Implement and evaluate different ML models for compatibility prediction.
+- Understand the challenges of traditional formula stability testing.
+- Explore the potential benefits of ML in cosmetic product development.
+- Implement and evaluate different ML models for stability prediction.
 - Analyze the results and interpret the model's performance.
 - Gain practical experience with ML tools and libraries.
 
 ## Project Deliverables:
 
-- Python code demonstrating ML-based compatibility prediction.
+- Python code demonstrating ML-based stability prediction.
 - Simulated data for training and testing the model.
 - Analysis of the model's accuracy and efficiency.
 - Documentation of the project methodology and results.
@@ -26,15 +26,14 @@ Piotrowski, N., 2023. Machine learning approach to packaging compatibility testi
 ## Target Audience:
 
 - Students interested in learning about ML applications in product development.
-- Packaging engineers seeking new methods for compatibility testing.
-- Product developers interested in exploring innovative technologies.
+- R&D Product developers interested in exploring innovative technologies.
 - Anyone curious about the potential of ML in various industries.
 
 ## Project Benefits:
 
 - Provides a hands-on learning experience with practical applications.
 - Demonstrates the power of ML to improve efficiency and accuracy.
-- Offers valuable insights into the future of packaging development.
+- Offers valuable insights into the future of cosmetic product development.
 - Serves as a starting point for further research and development.
 
 ## Get Involved:
